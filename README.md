@@ -6,14 +6,14 @@ This project focuses on designing, implementing, and analyzing data systems usin
 
 ## Features
 - **Dataset**: [Yelp Dataset](https://www.yelp.com/dataset)
-- **Relational Database**: PostgreSQL (>14)
+- **Relational Database**: PostgreSQL
 - **Non-Relational Database**: MongoDB
 - **Key Tasks**:
   - Schema design and ER diagram creation
   - Data loading and transformation
   - Benchmarking with fitness and performance metrics
   - Comprehensive analysis and report generation
-- **Teamwork**: Collaborative effort with 3-4 team members
+- **Teamwork**: Collaborative effort with 4 team members
 
 ## Key Deliverables
 1. Entity-Relationship Diagram (ERD) for the dataset schema.
